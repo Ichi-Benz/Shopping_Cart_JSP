@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/3095F14As2_Fabio_Tyrell_Stan">
+<Resource name="Assignment2"
+auth="Container"
+type="javax.sql.DataSource"
+username="Root"
+password="Root"
+driverClassName="org.apache.derby.jdbc.ClientDriver"
+url="jdbc:derby://localhost:1527/Assignment2"
+maxActive="15"
+maxIdle="3"/>
+</Context>
